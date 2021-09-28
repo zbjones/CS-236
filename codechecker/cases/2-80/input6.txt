@@ -1,0 +1,14 @@
+# COPYRIGHT © BRIGHAM YOUNG UNIVERSITY CS 236
+# FOR USE ONLY DURING FALL 2020 SEMESTSER
+# passoffInput27     FAILURE RightParen,4
+Schemes:
+
+shouldCrashHere()
+
+Facts:
+
+Rules:
+
+Queries:
+
+alsoBadSyntax()?
